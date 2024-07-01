@@ -1,4 +1,3 @@
-```markdown
 # MATLAB-Robot-Kinematics-and-Trajectory-Simulation
 
 This MATLAB repository simulates robotic trajectories and performs kinematic analysis for a 6-DOF robot model. It includes LSPB, bang-bang, and cubic trajectory generation, using Modified Denavit-Hartenberg parameters. Ideal for educational and research purposes, it demonstrates forward/inverse kinematics, trajectory planning, and visualization.
@@ -86,10 +85,8 @@ Running each main script will generate plots of the robot's trajectory and displ
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ### Notes
 - Ensure you have the Robotics Toolbox for MATLAB installed.
 - Modify the `git clone` URL to your repository link.
 - Include screenshots or examples of outputs in the `Example Outputs` section for better clarity.
-```

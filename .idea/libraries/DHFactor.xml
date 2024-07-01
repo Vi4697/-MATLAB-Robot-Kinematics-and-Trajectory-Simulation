@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DHFactor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rvctools/robot/java/DHFactor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

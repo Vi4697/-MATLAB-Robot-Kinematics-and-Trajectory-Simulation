@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/-MATLAB-Robot-Kinematics-and-Trajectory-Simulation.iml" filepath="$PROJECT_DIR$/.idea/-MATLAB-Robot-Kinematics-and-Trajectory-Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rvctools/robot/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/rvctools/robot/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot/interfaces/interfaces1.iml" filepath="$PROJECT_DIR$/robot/interfaces/interfaces1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rvctools/robot/robot.iml" filepath="$PROJECT_DIR$/rvctools/robot/robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot/robot1.iml" filepath="$PROJECT_DIR$/robot/robot1.iml" />
+    </modules>
+  </component>
+</project>
