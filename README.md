@@ -1,0 +1,11 @@
+## Files Description
+- **trajectory_LSPB.m**: Simulates a robotic trajectory using the Linear Segment with Parabolic Blend (LSPB) method and performs forward and inverse kinematics analysis.
+- **trajectory_bangbang.m**: Generates a bang-bang trajectory for the robot and performs similar kinematic analyses as in `trajectory_LSPB.m`.
+- **trajectory_cubic.m**: Generates a cubic polynomial trajectory for the robot and includes kinematic analyses.
+- **trajectory_LSPB_task.m**: Specific implementation of the LSPB trajectory for a pick-and-place task, including detailed steps for different robot configurations.
+- **compute_euler_angle.m**: Function to calculate the Euler angle rotation matrix for given Z-Y-Z angles.
+- **LSPB_trajectory.m**: Functions to generate synchronized LSPB trajectories for multiple joints.
+- **compute_matrixT.m**: Function to compute the transformation matrix based on D-H parameters.
+- **define_modified_DH.m**: Defines the Modified Denavit-Hartenberg parameters for the robot.
+- **custom_inverse_kinematics.m**: Custom implementation of the inverse kinematics based on the robot's D-H parameters.
+- **startup_rvc.m**: Script to add required paths and check dependencies for the Robotics Toolbox by Peter Corke.
