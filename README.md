@@ -12,7 +12,7 @@ This MATLAB repository simulates robotic trajectories and performs kinematic ana
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MATLAB-Robot-Kinematics-and-Trajectory-Simulation.git
+   git clone https://github.com/vi4697/MATLAB-Robot-Kinematics-and-Trajectory-Simulation.git
    cd MATLAB-Robot-Kinematics-and-Trajectory-Simulation
    ```
 2. Add the required paths in MATLAB by running `startup_rvc.m`:
@@ -80,7 +80,7 @@ This MATLAB repository simulates robotic trajectories and performs kinematic ana
   q = custom_inverse_kinematics(Ti);
   ```
 
-## Example Outputs
+## Outputs
 Running each main script will generate plots of the robot's trajectory and display various kinematic calculations. For example, `trajectory_LSPB.m` will produce a 3D plot of the LSPB trajectory and display forward and inverse kinematics results in the MATLAB command window.
 
 ## License
@@ -88,5 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Notes
 - Ensure you have the Robotics Toolbox for MATLAB installed.
-- Modify the `git clone` URL to your repository link.
-- Include screenshots or examples of outputs in the `Example Outputs` section for better clarity.
